@@ -596,7 +596,7 @@
             method: 'POST',
             headers: {
               'Content-Type': 'application/json; charset=utf-8',
-              'Authorization': 'Bearer sk-6098750b244241629a2074b2792357a1'
+              'Authorization': 'Bearer '
             },
             body: JSON.stringify(requestBody)
           });
@@ -630,7 +630,7 @@
             method: 'POST',
             headers: {
               'Content-Type': 'application/json',
-              'Authorization': 'Bearer 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'  // 请替换为你的API密钥
+              'Authorization': 'Bearer '  // 请替换为你的API密钥
             },
             body: JSON.stringify(requestBody)
           });
