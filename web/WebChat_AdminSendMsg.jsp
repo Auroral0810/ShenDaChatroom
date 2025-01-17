@@ -630,7 +630,7 @@
             method: 'POST',
             headers: {
               'Content-Type': 'application/json',
-              'Authorization': 'Bearer '  // 请替换为你的API密钥
+              'Authorization': ' '  // 请替换为你的API密钥
             },
             body: JSON.stringify(requestBody)
           });
